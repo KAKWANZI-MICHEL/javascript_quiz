@@ -1,14 +1,25 @@
 # QUIZ_JAVA
+
 1. c
+
 2. b
+
 3.c
+
 4.b
+
 5.a
+
 6. b
+
 7. a
+
 8. c
+
 9. b
+
 10. a
+
 11. function Greet(helo,name){
     return hello,name;
 }
